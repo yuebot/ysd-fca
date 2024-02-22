@@ -1,6 +1,6 @@
 {
-	"name": "fb-chat-api-temp",
-	"version": "1.0.4",
+	"name": "ysd-fca",
+	"version": "1.0.0",
 	"description": "A Facebook chat API that doesn't rely on XMPP",
 	"scripts": {
 		"test": "mocha",
@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ntkhang03/fb-chat-api-temp.git"
+		"url": "https://github.com/yuebot/ysd-fca.git"
 	},
 	"keywords": [
 		"facebook",
@@ -17,12 +17,13 @@
 		"api",
 		"fca",
 		"fb-chat-api",
-		"fb-chat-api-temp"
+		"fb-chat-api-temp",
+		"ysd"
 	],
 	"bugs": {
 		"url": "https://github.com/ntkhang03/fb-chat-api-temp/issues"
 	},
-	"author": "Avery, David, Maude, Benjamin, UIRI, NTKhang (rebuild)",
+	"author": "Avery, David, Maude, Benjamin, UIRI, NTKhang (rebuild) Rui, (rebuild)",
 	"license": "MIT",
 	"dependencies": {
 		"https-proxy-agent": "^4.0.0",
