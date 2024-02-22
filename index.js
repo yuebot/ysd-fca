@@ -183,6 +183,7 @@ function buildAPI(globalOptions, html, jar) {
 		'createPoll',
 		'deleteMessage',
 		'deleteThread',
+		'editMessage',
 		'forwardAttachment',
 		'getCurrentUserID',
 		'getEmojiUrl',
